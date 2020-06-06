@@ -6,6 +6,6 @@
   "author": "Philipp Hoenisch <philipp@hoenisch.at>",
   "dependencies": {
 		"express": "~4.11.2",
-		"bootstrap": "~3.3.4"
+		"bootstrap": "~3.4.1"
   }
 }
